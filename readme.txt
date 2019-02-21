@@ -1,0 +1,1 @@
+E:\ruanjian\MDK5\ARM\ARMCC\bin\fromelf.exe     --bin -o   C:\Users\Administrator\Desktop\STM32Cube_FW_L1_V1.6.0\Projects\NMDT_ADAM\Applications\FreeRTOS\FreeRTOS_ThreadCreation\MDK-ARM\STM32L152C-Discovery.bin  C:\Users\Administrator\Desktop\STM32Cube_FW_L1_V1.6.0\Projects\NMDT_ADAM\Applications\FreeRTOS\FreeRTOS_ThreadCreation\MDK-ARM\STM32L152C-Discovery.axf
